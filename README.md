@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Singh
 
-- 📫 How to reach me ...gmail(iitgameraryan@gmail.com)
+- Gmail: (iitgameraryan@gmail.com)
 
 <!---
 SsinghH-AaryanN/SsinghH-AaryanN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
