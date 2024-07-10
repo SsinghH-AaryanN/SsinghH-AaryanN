@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aryan Singh
-s
+
 - 📫 How to reach me ...gmail(iitgameraryan@gmail.com)
 
 <!---
